@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Singh</h1>
-<h3 align="center">A passionate frontend Senior iOS developer from India , having 7 year experience in iOS development having strong knowledge of Swift, SwiftUI and combine framework</h3>
+<h3 align="center">A passionate frontend Senior iOS developer from India , 
+  having 7 year experience in iOS development having strong knowledge of Swift,
+  SwiftUI and combine framework</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeep578&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeep578" /> </p>
 
