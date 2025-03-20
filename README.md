@@ -17,7 +17,7 @@
 
 - 💬 Skill : **iOS , Swift , SwiftUI and Combine , mvvm ,viper , core data , realm , firebase , git , CICD , Payment gateways , live app on appstore **
 
-- 📫 How to reach me **singh.kuldeep578@gmail.com**
+- 📫 How to reach me **singh.kuldeep578@gmail.com** and Contact Number : +919417302123
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KItmSYFzHnFa1G_kWySKbuid4hoNUDHS/view?usp=drive_link](https://drive.google.com/file/d/1KItmSYFzHnFa1G_kWySKbuid4hoNUDHS/view?usp=drive_link)
 
