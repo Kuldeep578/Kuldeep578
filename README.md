@@ -11,6 +11,8 @@
 
 - 👯 I’m worked on Food delivery app [Quick Grocery](https://apps.apple.com/in/app/quick-grocery/id1254438895)
 
+- :) Also i worked many project like : Uber , doctor paitent app , ecomerce and urban clab etc many more 
+
 - 📝 I regularly write articles on [i have my youtube channel : https://www.youtube.com/@alexgendergoal5146](i have my youtube channel : https://www.youtube.com/@alexgendergoal5146)
 
 - 💬 Skill : **iOS , Swift , SwiftUI and Combine , mvvm ,viper , core data , realm , firebase , git , CICD , Payment gateways , live app on appstore **
