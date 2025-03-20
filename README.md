@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeep578&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeep578" /> </p>
 
-- 🔭 I’m currently working on [Total Connect](https://apps.apple.com/in/app/total-connect-comfort-intl/id783653368)
+- 💬 Skill : **iOS , Swift , SwiftUI and Combine , mvvm ,viper , core data , realm , firebase , git , CICD , Payment gateways , live app on appstore **
+
+- 🔭 I’m currently working on Project : [Total Connect](https://apps.apple.com/in/app/total-connect-comfort-intl/id783653368)
 
 - 🌱 I’m currently learning **Sprite kit , google cloud plateform**
 
@@ -14,8 +16,6 @@
 - :) Also i worked many project like : Uber , doctor paitent app , ecomerce and urban clab etc many more 
 
 - 📝 I regularly write articles on [i have my youtube channel : https://www.youtube.com/@alexgendergoal5146](i have my youtube channel : https://www.youtube.com/@alexgendergoal5146)
-
-- 💬 Skill : **iOS , Swift , SwiftUI and Combine , mvvm ,viper , core data , realm , firebase , git , CICD , Payment gateways , live app on appstore **
 
 - 📫 How to reach me **singh.kuldeep578@gmail.com** and Contact Number : +919417302123
 
